@@ -63,11 +63,6 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-# adding this to enable organize markdown under _tabs folder
-collections:
-  _tabs:
-    output: true
-
 # Social icons and sharing options
 #
 # Social settings are used in two places:
