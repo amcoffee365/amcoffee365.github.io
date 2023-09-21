@@ -14,12 +14,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Sip Academy
+title: 清晨咖啡 - Sip Academy
 subtitle: "网站正在紧锣密鼓建设中，敬请期待！- 详情请咨询 AmCoffee365@gmail.com "
 email: AmCoffee365@gmail.com
 name: AM Coffee 365
 description: >
-  Sip Sunshine and Academy with AM Coffee 365.
+  Sip Academy with AM Coffee 365.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
