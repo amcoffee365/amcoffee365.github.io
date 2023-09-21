@@ -2,7 +2,7 @@
 layout: post
 title:  "2023 INFORMS!"
 date:   2023-09-17 08:43:59
-author: Knock Tao
+author: AmCoffee365
 categories: INFORMS
 tags:	conference
 ---
