@@ -3,8 +3,8 @@ layout: post
 title:  "2023 INFORMS!"
 date:   2023-09-17 08:43:59
 author: AmCoffee365
-categories: Conference
-tags:	Informs
+categories: 会议资讯 
+tags:	Informs Conference
 ---
 
 #### 授权转发:  
