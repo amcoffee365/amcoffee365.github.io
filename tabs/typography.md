@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "学术分享"
+title: "TBD"
 permalink: /information/
 main_nav: true
 ---
