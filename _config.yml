@@ -57,10 +57,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Templates
+  - cat: Templates  
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: Conference
+  - cat: Conference  
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
