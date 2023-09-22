@@ -36,13 +36,13 @@ $red:	#c0392b;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
 // Even more colors
 $bc-red: #bc0000;
-$pumpkin: #d35400;
+$pumpkin: #cd6133;// #d35400;
 $gray1: #84817a;
 
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $gray1; //blue;
+$action-color: $pumpkin; //blue;
 $highlight-color: tint($action-color, 33%);
 
 // Border
