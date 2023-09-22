@@ -57,10 +57,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Templates  
+  - cat: Templates
     desc: "模版分享"
 
-  - cat: Conference  
+  - cat: Conference
     desc: "会议资讯"
 
 # Social icons and sharing options
