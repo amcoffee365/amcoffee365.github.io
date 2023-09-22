@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 会议资讯
+title: 小红书文件分享
 permalink: /posts/
 main_nav: true
 ---
