@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header_image.png
   actions:
     - label: "啜一口"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "/blogs/"
   # caption: "Photo credit: [**Stable Diffusion**](https://stablediffusionweb.com/)"
 excerpt: "AM Coffee 365 - Sip Academy"
 intro: 
