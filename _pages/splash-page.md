@@ -11,7 +11,7 @@ header:
     - label: "品一口"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Stable Diffusion**](https://stablediffusionweb.com/)"
-excerpt: "*AM Coffee 365 - Sip Academy*"
+excerpt: "AM Coffee 365 - Sip Academy"
 intro: 
   - excerpt: '**置顶帖**'
 feature_row:
@@ -32,10 +32,10 @@ feature_row:
     btn_label: "了解更多"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/posts/wharton.jpg
+  - image_path: /assets/images/posts/wharton.png
     alt: "Wharton | 写作指南"
     title: "Wharton | 写作指南"
-    excerpt: "Personal Statement"
+    excerpt: "PhD Writing Introduction"
     url: "/year-archive/"
     btn_label: "了解更多"
     btn_class: "btn--primary"
