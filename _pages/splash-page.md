@@ -20,7 +20,7 @@ feature_row:
     alt: "INFORMS 2023"
     title: "INFORMS 2023"
     excerpt: "Informs 职业规划"
-    url: "#test-link"
+    url: "/conference/informs/"
     btn_label: "了解更多"
     btn_class: "btn--primary"
 
