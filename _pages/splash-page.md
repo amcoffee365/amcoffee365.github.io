@@ -28,7 +28,7 @@ feature_row:
     alt: "博士申请 | PS模版"
     title: "博士申请 | PS模版"
     excerpt: "Personal Statement"
-    url: "/year-archive/"
+    url: "/template/ps/"
     btn_label: "了解更多"
     btn_class: "btn--primary"
 
