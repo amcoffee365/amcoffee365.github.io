@@ -1,24 +1,27 @@
 ---
-title: "AM Coffee 365"
+title: "清晨咖啡 - 品学"
 layout: splash
 permalink: /
 date: 2023-09-23T16:20:00-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.9"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/header_image.png
   actions:
-    - label: "Take a Sip"
+    - label: "品一口"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Stable Diffusion**](https://stablediffusionweb.com/)"
-excerpt: "Sip Academy"
+  # caption: "Photo credit: [**Stable Diffusion**](https://stablediffusionweb.com/)"
+excerpt: "Sip Academy with AM Coffee 365"
 intro: 
-  - excerpt: 'Sip Academy with AM Coffee 365. `type="center"`'
+  - excerpt: '*Sip Academy with AM Coffee 365.*'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/ps.png
+    alt: "Personal Statement"
+    title: "博士申请 | PS模版"
+    excerpt: "Personal Statement"
+    url: "/year-archive/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
