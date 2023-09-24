@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/header_image.png
   actions:
-    - label: "品一口"
+    - label: "啜一口"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Stable Diffusion**](https://stablediffusionweb.com/)"
 excerpt: "AM Coffee 365 - Sip Academy"
@@ -35,8 +35,8 @@ feature_row:
   - image_path: /assets/images/posts/wharton.png
     alt: "Wharton | 写作指南"
     title: "Wharton | 写作指南"
-    excerpt: "PhD Writing Introduction"
-    url: "/year-archive/"
+    excerpt: "Ph.D. Writing about Introduction"
+    url: "/instruction/phd-writing/"
     btn_label: "了解更多"
     btn_class: "btn--primary"
 # feature_row2:
